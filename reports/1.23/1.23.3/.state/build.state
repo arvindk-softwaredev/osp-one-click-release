@@ -1,0 +1,5 @@
+VERSION=1.23.3
+STAGE=build
+BLOCKING_STEP=''
+BLOCKING_DETAILS=''
+REPORT_FILE=/Users/apalit/Work/osp-one-click-release/reports/1.23/1.23.3/build/report_2026-10-25_08-52-28_IST.md
