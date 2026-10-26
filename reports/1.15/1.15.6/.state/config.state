@@ -1,0 +1,5 @@
+VERSION=1.15.6
+STAGE=config
+BLOCKING_STEP=1.8b
+BLOCKING_DETAILS=version\ mismatches:\ assist:UNKNOWN\ opc:1.15.5-\>1.15.6
+REPORT_FILE=/Users/arvindkrishnamurthy/Work/Code/osp-one-click-release/reports/1.15/1.15.6/config/report_2026-10-07_18-54-58_IST.md

@@ -1,0 +1,5 @@
+VERSION=1.24.2
+STAGE=production-release
+BLOCKING_STEP=4.2
+BLOCKING_DETAILS=verification\ failed
+REPORT_FILE=/Users/arvindkrishnamurthy/Work/Code/osp-one-click-release/reports/1.24/1.24.2/release/report_2026-10-25_19-16-07_IST.md

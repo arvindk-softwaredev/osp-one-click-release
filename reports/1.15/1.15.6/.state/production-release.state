@@ -1,0 +1,5 @@
+VERSION=1.15.6
+STAGE=production-release
+BLOCKING_STEP=4.1
+BLOCKING_DETAILS=10/12\ current\ core\,\ bundle\,\ and\ index\ snapshots\ have\ successful\ stage\ releases
+REPORT_FILE=/Users/arvindkrishnamurthy/Work/Code/osp-one-click-release/reports/1.15/1.15.6/release/report_2026-10-26_15-02-26_IST.md
